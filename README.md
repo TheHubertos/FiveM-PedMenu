@@ -1,3 +1,3 @@
-# FiveM-SQL-Bot
+# FiveM Ped Menu
 
 PedMenu for FiveM
